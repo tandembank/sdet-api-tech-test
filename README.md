@@ -7,7 +7,9 @@ The application under test is the GitHub Issues API v3: https://developer.github
 The scenarios to be covered are:
 
 **Scenario 1: Create an Issue**
+
 **Scenario 2: Edit an Issue title**
+
 **Scenario 3: List issues for a repo, sorted by Update date**
 
 Notes:
