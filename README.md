@@ -10,7 +10,7 @@ The scenarios to be covered are:
 **Scenario 2: Edit an Issue title**
 **Scenario 3: List issues for a repo, sorted by Update date**
 
-* *Notes: * *
+Notes:
 - Use of the GitHub API requires authentication:
 - To simplify creation of an OAuth token, use the GitHub web UI (Developer Settings) to create a personal access token.
 - Do not check in any secrets into the repo to be shared.
