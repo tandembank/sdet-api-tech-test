@@ -22,7 +22,7 @@ Notes:
 ## Candidate Requirements
 
 - Build a test project that includes automation of the 3 scenarios above.
--- Solution to be coded in any language of choice
--- Tests to be driven with a BDD framework of choice
+  - Solution to be coded in any language of choice
+  - Tests to be driven with a BDD framework of choice
 - Share code in a public GitHub repository for review.
 - Share further improvements that could be considered, where relevant.
