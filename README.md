@@ -1,6 +1,6 @@
 # Developer in Test Coding exercise
 
-Develop a test solution that automates some API tests composed as BDD scenarios.
+Develop a test solution that automates some API tests, composed as BDD scenarios.
 
 The application under test is the GitHub Issues API v3: https://developer.github.com/v3/issues/
 
